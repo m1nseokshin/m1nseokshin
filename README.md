@@ -78,6 +78,7 @@
       <img src="https://img.shields.io/badge/xx_xstyles-E4405F?style=square&logo=instagram&logoColor=white"/> 
     </a>
     <a>
+     <a href="https://open.spotify.com/user/21prics5y56va4jl4qxvm5o2a?si=3f305ea7c1864352">
       <img src="https://img.shields.io/badge/daaoko-1DB954?style=square&logo=spotify&logoColor=white"/> 
     </a>
     <a>
