@@ -6,9 +6,9 @@
 </div>
 <div align="left">
   <br>
-  <li> 🏫 Degital Design of Catholic University of Daegu <sub>(2022.03 ~ )</sub></li>
-  <li> 🦢 Degital Design Student Association <sub>(2023.03 ~ 2023.12)</sub></li>
-  <li> 🦢 Sophomore President of Degital Design  <sub>(2023.03 ~ 2023.12)</sub></li>
+  <li> 🏫 Digital Design of Catholic University of Daegu <sub>(2022.03 ~ )</sub></li>
+  <li> 🦢 Digital Design Student Association <sub>(2023.03 ~ 2023.12)</sub></li>
+  <li> 🦢 Sophomore President of Digital Design  <sub>(2023.03 ~ 2023.12)</sub></li>
 
   <li>  📖Digital Design Digilog<sub>(2022.08 ~ )</sub></li>
   <li>  ✝️Catholic Church Association<sub>(2022.08 ~ )</sub></li>
