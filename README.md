@@ -19,15 +19,15 @@
   
   ### 🛠 Available Tools 🛠
   <div align="center">
-  <h2> Develop Tools <h2>
+  Develop Tools
   <br>HTML CSS Javascript JQuary React C+<br>
-  <h2> WebDesign Tools <h2>
+  WebDesign Tools
   <br>XD Figma<br> 
-  <h2> Design Tools <h2> 
+  Design Tools 
   <br>Illustrator Photoshop InDesign Premire Pro<br>
-  <h2> 3D Design Tools <h2>
+  3D Design Tools
   <br>Blender 3DS MAX<br>
-  <h2> Game Tools <h2>
+  Game Tools
   <br>Unity<br>
   </div>
   
@@ -40,8 +40,7 @@
     <a>
       <img src="https://img.shields.io/badge/m1nseokdesign-EA4335?style=plastic&logo=gmail&logoColor=white"/> 
     </a>
-    <br>
-    <br>
+
     <div>아직 보잘 것 없지만, 디자인과 개발 모두 능숙하게 다루는 신민석이 되겠습니다. 감사합니다.😎</div>
   </div>
 </div>
