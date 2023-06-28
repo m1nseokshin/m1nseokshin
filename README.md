@@ -1,5 +1,5 @@
 <div align="center">
-<img src='https://m1nseokshin.github.io/image/profile.jpg'>
+<img src='https://m1nseokshin.github.io/3dartworks/01.jpg'>
 
  
   ### 안녕하세요!👋 경험을 중시하는 디자이너 신민석입니다.😎
