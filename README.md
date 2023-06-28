@@ -4,7 +4,7 @@
 </div>
 <div align="left">
   <br>
-  <li><h2> 🏫 [Degital Design] Catholic Univ of Daegu <sub>(2022.03 ~ )</sub><h2></li>
+  <li> 🏫 [Degital Design] Catholic Univ of Daegu <sub>(2022.03 ~ )</sub></li>
   <li> 🦢 Degital Design Student Association <sub>(2023.03 ~ 2023.12)</sub></li>
   <li> 🦢 Sophomore President of Degital Design  <sub>(2023.03 ~ 2023.12)</sub></li>
 
