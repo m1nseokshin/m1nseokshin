@@ -1,8 +1,8 @@
 <div align="center">
-<img src='https://m1nseokshin.github.io/3dartworks/01.jpg'>
+<img src='https://s3.amazonaws.com/www-inside-design/uploads/2019/02/designdevunicorn.jpg'  style="width:30%;">
 
  
-  ### 안녕하세요!👋 경험을 중시하는 디자이너 신민석입니다.😎
+  ### 안녕하세요!👋 경험을 중시하는 디자이너 신민석입니다.<br> 현재 대학교 2학년이며 디자인과 개발 모두 공부하고 있습니다!😎😎
 </div>
 <div align="left">
   <br>
@@ -24,10 +24,14 @@
   <br>
    <img src="https://img.shields.io/badge/HTML5-F24E1E?style=flat-square&logo=HTML5&logoColor=white"/> 
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
    <img src="https://img.shields.io/badge/jQuary-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+   <br>
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+   <br>
    <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=csharp&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
    <br>
 
   ##
@@ -86,6 +90,6 @@
     </a>
    
  ##
- ### 아직 보잘 것 없지만, 디자인과 개발 모두 능숙하게 다루는 신민석이 되겠습니다. 감사합니다.😎
+ ### 아직 많이 부족하지만, 디자인과 개발 모두 능숙하게 다루는 신민석이 되겠습니다. 감사합니다.😎
   </div>
 </div>
