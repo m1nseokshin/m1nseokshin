@@ -31,7 +31,6 @@
    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
    <br>
    <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=csharp&logoColor=white"/>
-   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
    <br>
 
   ##
