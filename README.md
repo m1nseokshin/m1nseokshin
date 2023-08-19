@@ -10,8 +10,8 @@
   <li> 🦢 Digital Design Student Association <sub>(2023.03 ~ 2023.12)</sub></li>
   <li> 🦢 Sophomore President of Digital Design  <sub>(2023.03 ~ 2023.12)</sub></li>
 
-  <li>  📖Digital Design Digilog<sub>(2022.08 ~ )</sub></li>
-  <li>  ✝️Catholic Church Association<sub>(2022.08 ~ )</sub></li>
+  <li> 📖 Digital Design Digilog<sub>(2022.08 ~ )</sub></li>
+  <li> ✝️ Catholic Church Association<sub>(2022.08 ~ )</sub></li>
   <br>
 </div>
 
