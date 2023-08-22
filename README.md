@@ -30,6 +30,7 @@
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Typescript-358EF1?style=flat-square&logo=typescript&logoColor=white"/>
    <br>
    <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=csharp&logoColor=white"/>
    <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white"/>
