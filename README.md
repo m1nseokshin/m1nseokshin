@@ -1,5 +1,5 @@
 <div align="center">
-<img src='https://s3.amazonaws.com/www-inside-design/uploads/2019/02/designdevunicorn.jpg'  style="width:30%;">
+<img src='https://pbs.twimg.com/profile_images/1574872125869006880/96LkfYeR_400x400.jpg'  style="width:30%;">
 
  
   ### 안녕하세요!👋 경험을 중시하는 디자이너 신민석입니다.<br> 현재 대학교 2학년이며 디자인과 개발 모두 공부하고 있습니다!😎😎
