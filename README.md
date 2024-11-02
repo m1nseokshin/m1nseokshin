@@ -48,7 +48,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313" style="text-decoration:none;">
+  <a href="https://www.instagram.com/xx_xstyles/3" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
